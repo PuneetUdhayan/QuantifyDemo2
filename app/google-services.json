@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660852608767",
+    "firebase_url": "https://quantify-774e3.firebaseio.com",
+    "project_id": "quantify-774e3",
+    "storage_bucket": "quantify-774e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660852608767:android:ddb2f6a8bb28ad02f4c6ca",
+        "android_client_info": {
+          "package_name": "com.example.quantifydemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660852608767-bgu7p43rac4hs580a3dhdvdpnpjr500g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiY8yluZ_xBhfeUcdA0mpcGRtORJSDL3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660852608767-bgu7p43rac4hs580a3dhdvdpnpjr500g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Nov 22 14:13:28 IST 2019
+1.base=/Users/rohithjanardhan/Desktop/QuantifyDemo2/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/rohithjanardhan/Desktop/QuantifyDemo2/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+1.path=classes.dex
